@@ -27,12 +27,12 @@ Siga os passos abaixo para executar o projeto em ambiente de desenvolvimento:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/matheusdev29/landing_page_psicanlista.git
    ```
 
 2. **Entre na pasta do projeto:**
    ```bash
-   cd nome-do-repositorio
+   cd landing_page_psicanlista
    ```
 
 3. **Instale as dependências:**
@@ -57,21 +57,9 @@ Para criar a versão otimizada para produção:
 npm run build
 ```
 
----
 
-## 🌐 Deploy (GitHub Pages)
 
-Para fazer o deploy automatizado utilizando a branch `gh-pages`, utilize o comando configurado no projeto:
 
-```bash
-npm run deploy
-```
 
----
-
-## 👨‍‍💻 Autor
-
-Feito com 💜 por **Seu Nome**. 
-
-* [LinkedIn](https://linkedin.com/in/seu-usuario)
-* [GitHub](https://github.com/seu-usuario)
+Feito  por **Matheus Souza**. 
+* [GitHub](https://github.com/matheusdev29)
