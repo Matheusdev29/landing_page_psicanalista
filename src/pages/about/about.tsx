@@ -22,7 +22,7 @@ export default function About() {
                         <Typography 
                 variant="body2"
                 color="#F4F6F8"
-                fontWeight={700}
+                fontWeight={300}
                 mb={1} >Olá! sou Alessandra Souza, psicanalista. Posso te acolher?
                 Eu sou mulher, mãe, esposa, filha. Sou humana antes de qualquer título.
                 Sou psicanalista, especialista em Transtorno de Personalidade, Psicoterapia Breve, Psicoterapia Infantil e Juvenil, Sexóloga e em Traumas Religiosos.
