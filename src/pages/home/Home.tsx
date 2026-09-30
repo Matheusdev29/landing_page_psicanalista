@@ -36,7 +36,8 @@ export default function Home() {
                 color="#F4F6F8"
                 fontWeight={700}
                 mb={1} > 
-                    Sou psicanalista formada, com especialização em ...
+                    Sou psicanalista formada, especialista em Transtorno de Personalidade, Psicoterapia Breve, Psicoterapia Infantil e Juvenil, Sexóloga e em Traumas Religiosos.
+Há mais de   10 anos eu acolho pessoas que carregam histórias que doem em silêncio.
 
                 </Typography>   
             </Grid>

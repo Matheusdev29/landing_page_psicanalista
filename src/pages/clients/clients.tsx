@@ -50,7 +50,7 @@ export default function Clients(){
                    <Grid size={12}>
                     <Typography 
                         variant="h2" color = "#F4F6F8" fontWeight={300} mb={1}>  
-                            Depoimentos
+                            Livros
                         </Typography> 
                    </Grid>
                    <Grid size={{ xs: 12, sm: 6, md: 3}}>    
@@ -69,7 +69,7 @@ export default function Clients(){
                             color="#F4F6F8"
                             fontWeight={300}
                             mb={1}> 
-                                Paciente 1
+                                Eu vejo você
                             </Typography>   
                         </StyledCard>
                     </Grid>
@@ -81,13 +81,19 @@ export default function Clients(){
                             lineHeight={1.7}
                             mb={2}
                             >
-                                "Bom diaaa meu filho, paz 💙."
+                                Seu filho adolescente mudou? Respostas curtas, porta fechada, celular o tempo todo e qualquer conversa vira discussão?
+
+Este ebook prático foi feito para mães de meninos que amam profundamente, mas não sabem mais como alcançar seus filhos.
+
+Em capítulos curtos e acolhedores, você vai entender o que está por trás da raiva, do silêncio, da mentira e do isolamento - e vai aprender o ritual de 1 minuto por dia que reconstrói a conexão sem brigas.
+
+Você vai aprender a unir acolhimento e autoridade, escuta e direção.
                             </Typography>
                             <Typography variant="h6"
                             color="#F4F6F8"
                             fontWeight={300}
                             mb={1}> 
-                                Paciente 2
+                                Um minuto para entender seu filho adolescentes
                             </Typography>   
                         </StyledCard>
                     </Grid>
@@ -99,15 +105,23 @@ export default function Clients(){
                             lineHeight={1.7}
                             mb={2}
                             >
-                                "Bom diaaa meu filho, paz 💙
-                            Filho, você não é comum.
-                            Existe algo dentro de você que é forte, valioso e cheio de propósito… mesmo quando você ainda não percebe totalmente."
+                                Sua filha trancada no quarto não te odeia. Ela está com a identidade confusa.
+
+Este ebook de 10 capítulos te ensina o método de 60 segundos por dia para reconectar com sua filha adolescente, mesmo sem tempo e sem briga.
+
+Com base bíblica (Provérbios 22:6) + ferramentas da psicanálise, você vai aprender:
+
+✓ O que fazer quando ela se tranca
+✓ Como tirar o celular sem perder o vínculo  
+✓ As 3 frases que constroem identidade e autoestima
+
+Para mães e pais de meninas de 9 a 18 anos que não querem perder a filha para o mundo.
                             </Typography>
                             <Typography variant="h6"
                             color="#F4F6F8"
                             fontWeight={300}
                             mb={1}> 
-                                Paciente 3
+                                Um minuto para construir uma filha segura
                             </Typography>   
                         </StyledCard>
                     </Grid>
