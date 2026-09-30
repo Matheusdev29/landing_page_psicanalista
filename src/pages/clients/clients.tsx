@@ -81,9 +81,7 @@ export default function Clients(){
                             lineHeight={1.7}
                             mb={2}
                             >
-                                "Bom diaaa meu filho, paz 💙
-                                Filho, você não é comum.
-                                Existe algo dentro de você que é forte, valioso e cheio de propósito… mesmo quando você ainda não percebe totalmente."
+                                "Bom diaaa meu filho, paz 💙."
                             </Typography>
                             <Typography variant="h6"
                             color="#F4F6F8"
