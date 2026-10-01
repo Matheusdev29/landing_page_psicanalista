@@ -27,12 +27,12 @@ Siga os passos abaixo para executar o projeto em ambiente de desenvolvimento:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/matheusdev29/landing_page_psicanlista.git
+   git clone https://github.com/matheusdev29/landing_page_psicanalista.git
    ```
 
 2. **Entre na pasta do projeto:**
    ```bash
-   cd landing_page_psicanlista
+   cd landing_page_psicanalista
    ```
 
 3. **Instale as dependências:**
